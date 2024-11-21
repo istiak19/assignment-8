@@ -1,15 +1,16 @@
 # Gadget Heaven
 
 
-### Live Website
+## Live Website
 - https://gadget-heaven-19.netlify.app/
 
 
-### Requirement Document 
+## Requirement Document 
 - https://github.com/ProgrammingHero1/B10-A8-gadget-heaven/blob/main/Batch-10_Assignment-08.pdf
 
 
-### List of React Fundamental concepts used in the project
+
+## List of React Fundamental concepts used in the project
 * Functional Components.
 * useState Hook.
 * useLocation Hook.
@@ -25,13 +26,15 @@
 * React Toast library.
 
 
-### I have used for handling and managing data local storage
-* localStorage.setItem()
-* localStorage.getItem()
-* localStorage.removeItem()
+
+## I have used for handling and managing data local storage
+* localStorage.setItem().
+* localStorage.getItem().
+* localStorage.removeItem().
 
 
-### 5 features of my website/project
+
+## 5 features of my website/project
 * Cart & wishList button click then data storage in local storage.
 * Add to data and remove data show the toast.
 * Purchase button click local storage data remove and show the modal.
